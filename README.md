@@ -1,4 +1,5 @@
 # Redbus Data Scraping with Selenium & Dynamic Filtering using Streamlit
+![App Preview](app_preview.gif)
 
 ## Table of Contents
 
